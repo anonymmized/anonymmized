@@ -17,6 +17,6 @@
 [![](https://visitcount.itsvg.in/api?id=anonymmized&icon=2&color=4)](https://visitcount.itsvg.in)
 
 
-!(https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
 
