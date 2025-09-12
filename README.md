@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
@@ -15,3 +15,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anonymmized&icon=2&color=4)](https://visitcount.itsvg.in)
+](https://github.com/anonymmized)
