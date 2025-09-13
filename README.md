@@ -4,7 +4,6 @@
 
 I am Insany, a specialist in the field of information security and every day I try to make the world safer.
 
-- 🌍  I'm based in Moscow  
 - ✉️  You can contact me at [insanyyi@proton.me](mailto:insanyyi@proton.me)  
 - 🧠  I'm currently learning C  
 - 🤝  I'm open to collaborating on interesting projects  
