@@ -1,13 +1,8 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Insany
 
-## Information Security Specialist
-
-I am Insany, a specialist in the field of information security and every day I try to make the world safer.
+## InfoSec Specialist
 
 - ✉️  You can contact me at [insanyyi@proton.me](mailto:insanyyi@proton.me)  
-- 🧠  I'm currently learning C  
-- 🤝  I'm open to collaborating on interesting projects  
-- ⚡  I'm actually Betman... but don't tell anyone
 
 ## Skills
 
