@@ -1,11 +1,16 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Insany
 
+![Profile Metrics](./metrics.svg)
+
 ## InfoSec Specialist
 
 - ✉️  You can contact me at [insanyyi@proton.me](mailto:insanyyi@proton.me)
 
 ![Metrics](./metrics.plugin.isocalendar.svg)
 
+![Achievements](./metrics.plugin.achievements.svg)
+
+![Languages from star lists](./metrics.plugin.starlists.languages.svg)
 
 
 ## Skills
