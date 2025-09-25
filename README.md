@@ -1,17 +1,14 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Insany
 
-![Profile Metrics](./metrics.svg)
+<p align="center">
+  <img src="./metrics.svg" alt="Profile Metrics" />
+</p>
 
 ## InfoSec Specialist
 
 - ✉️  You can contact me at [insanyyi@proton.me](mailto:insanyyi@proton.me)
 
-![Metrics](./metrics.plugin.isocalendar.svg)
-
-![Achievements](./metrics.plugin.achievements.svg)
-
-![Languages from star lists](./metrics.plugin.starlists.languages.svg)
-
+<a href="https://www.github.com/anonymmized" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/anonymmized?logo=github&style=for-the-badge&color=8b5cf6&labelColor=0d0b1f" /></a>
 
 ## Skills
 
@@ -56,35 +53,29 @@
   </a>
 </p>
 
-<a href="https://www.github.com/anonymmized" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/anonymmized?logo=github&style=for-the-badge&color=22c55e&labelColor=27272a" /></a>
+## Stats
 
-## Badges
+<a href="http://www.github.com/anonymmized"><img src="https://github-readme-stats.vercel.app/api?username=anonymmized&show_icons=true&hide=contribs&count_private=true&title_color=8b5cf6&text_color=ffffff&icon_color=a78bfa&bg_color=0d0b1f&hide_border=true" alt="anonymmized's GitHub stats" /></a>
+<a href="http://www.github.com/anonymmized"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymmized&stroke=a78bfa&background=0d0b1f&ring=8b5cf6&fire=8b5cf6&currStreakNum=ffffff&currStreakLabel=8b5cf6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/anonymmized" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymmized&langs_count=10&title_color=8b5cf6&text_color=ffffff&icon_color=a78bfa&bg_color=0d0b1f&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-**My GitHub Stats**
-
-<a href="http://www.github.com/anonymmized"><img src="https://github-readme-stats.vercel.app/api?username=anonymmized&show_icons=true&hide=contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&show_icons=true" alt="anonymmized's GitHub stats" /></a>
-<a href="http://www.github.com/anonymmized"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymmized&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/anonymmized" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymmized&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-**Top Repositories**
+## Top Repositories
 
 <div width="100%" align="center">
   <a href="https://github.com/anonymmized/BashGuard" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anonymmized&repo=BashGuard&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anonymmized&repo=BashGuard&title_color=8b5cf6&text_color=ffffff&icon_color=a78bfa&bg_color=0d0b1f&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/anonymmized/NameCrack" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anonymmized&repo=NameCrack&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" />
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anonymmized&repo=NameCrack&title_color=8b5cf6&text_color=ffffff&icon_color=a78bfa&bg_color=0d0b1f&hide_border=true&locale=en" />
   </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center">
   <a href="https://github.com/anonymmized/PermSnitch" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anonymmized&repo=PermSnitch&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anonymmized&repo=PermSnitch&title_color=8b5cf6&text_color=ffffff&icon_color=a78bfa&bg_color=0d0b1f&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/anonymmized/dev-env-setup" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anonymmized&repo=dev-env-setup&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" />
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anonymmized&repo=dev-env-setup&title_color=8b5cf6&text_color=ffffff&icon_color=a78bfa&bg_color=0d0b1f&hide_border=true&locale=en" />
   </a>
 </div>
