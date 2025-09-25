@@ -4,7 +4,10 @@
 
 - ✉️  You can contact me at [insanyyi@proton.me](mailto:insanyyi@proton.me)
 
-  ![Metrics](https://raw.githubusercontent.com/anonymmized/anonymmized/main/metrics.plugin.isocalendar.svg)
+  # Привет 👋
+
+![Metrics](./metrics.plugin.isocalendar.svg)
+
 
 
 ## Skills
