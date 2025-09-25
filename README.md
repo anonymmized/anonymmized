@@ -4,8 +4,6 @@
 
 - ✉️  You can contact me at [insanyyi@proton.me](mailto:insanyyi@proton.me)
 
-  # Привет 👋
-
 ![Metrics](./metrics.plugin.isocalendar.svg)
 
 
