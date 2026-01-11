@@ -48,15 +48,5 @@ Cybersecurity (InfoSec) specialist focused on secure development, automation and
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
 </p>
 
-## Some stats
-
-<a href="http://www.github.com/anonymmized"><img src="https://github-readme-stats.vercel.app/api?username=anonymmized&show_icons=true&hide=contribs&count_private=true&title_color=8b5cf6&text_color=ffffff&icon_color=a78bfa&bg_color=0d0b1f&hide_border=true" alt="anonymmized's GitHub stats" /></a>
-
-
-<a href="http://www.github.com/anonymmized"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymmized&stroke=a78bfa&background=0d0b1f&ring=8b5cf6&fire=8b5cf6&currStreakNum=ffffff&currStreakLabel=8b5cf6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-## Languages
-
-<a href="https://github.com/anonymmized" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymmized&langs_count=10&title_color=8b5cf6&text_color=ffffff&icon_color=a78bfa&bg_color=0d0b1f&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <img src="./IMG_0289.JPG" width="700" height="300" />
