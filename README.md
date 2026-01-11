@@ -1,10 +1,4 @@
-<div align="center">
-
-<img src="./IMG_0287.JPG" width="720" height="300" />
-
-</div>
-
-Hey there 👋
+Hey there 👀
 
 I'm **Insany**, an information security specialist and C developer.
 
