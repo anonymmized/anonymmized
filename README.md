@@ -1,52 +1,18 @@
-Hey there 👋
+I'm **Insany**.
 
-I'm **Insany**, an information security specialist and C developer.
+Information security specialist and C developer.
 
-I design and build low-level security tools and terminal-first utilities,
-with a focus on predictability, minimal dependencies, and offline operation.
+I build low-level security tools and terminal-first utilities,  
+with a focus on simplicity, auditability, and offline operation.
 
-My work centers around systems programming and security tooling
-that can be audited, reasoned about, and deployed without external services.
+**Areas of work**
+- Systems programming in C  
+- Linux security and internals  
+- Reverse engineering  
+- Minimal CLI tooling  
 
----
+**Current focus**
+- Offline-first security utilities  
+- Predictable, dependency-free tooling  
 
-### Areas of focus
-
-- Low-level security tooling in **C**
-- Linux internals and system hardening
-- Reverse engineering and binary analysis
-- Minimal, auditable CLI utilities
-
----
-
-### Engineering principles
-
-- Simple tools that do one thing well  
-- No unnecessary abstractions  
-- No hidden APIs or cloud dependencies  
-- Security should be understandable, not magical  
-
-> If a tool requires internet access, it increases the attack surface.
-
----
-
-### Selected work
-
-Pinned repositories below reflect my current focus,
-including **HelioTime** and other offline-first utilities.
-
----
-
-### Tech stack
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
-![POSIX](https://img.shields.io/badge/POSIX-2c2c2c?style=flat)
-![InfoSec](https://img.shields.io/badge/InfoSec-8b5cf6?style=flat)
-
----
-
-### Contact
-
-Open to collaboration on focused security tooling,
-systems programming, and low-level utilities.
+Pinned repositories reflect my active work.
