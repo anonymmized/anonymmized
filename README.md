@@ -1,24 +1,84 @@
-# 💫 About Me:
-🔭 Working on<br>Low-level security tools and C-based CLI utilities<br><br>👯 Open to collaborate on<br>Security tooling, Linux internals, and systems programming<br><br>🌱 Currently focused on<br>Secure development, reverse engineering, and automation<br><br>💬 Ask me about<br>C, Linux security, offline tooling
+<div align="center">
 
+<img src="./IMG_0287.JPG" width="720" height="300" />
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:insanyyi@proton.me) 
+<h1>Hi, I'm Insany 👋</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anonymmized&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anonymmized&theme=shadow_green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymmized&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p>
+Cybersecurity (InfoSec) specialist focused on secure development,<br/>
+low-level tooling, and automation.
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anonymmized&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<p>
+  <a href="mailto:insanyyi@proton.me">
+    <img src="https://img.shields.io/badge/Email-insanyyi%40proton.me-8b5cf6?style=for-the-badge&labelColor=0d0b1f" />
+  </a>
+  <a href="https://x.com/anonymmizd" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@anonymmizd-8b5cf6?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0b1f" />
+  </a>
+  <a href="https://github.com/anonymmized" target="_blank">
+    <img src="https://img.shields.io/github/followers/anonymmized?logo=github&style=for-the-badge&color=8b5cf6&label=Followers&labelColor=0d0b1f" />
+  </a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anonymmized&limit=5&theme=merko&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anonymmized&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I build **small, focused security tools** and **terminal-first utilities** with an emphasis on:
+
+- secure-by-design development
+- minimal dependencies
+- predictable and auditable behavior
+
+Most of my projects are designed to work **offline**, be easily portable, and remain transparent at the implementation level.
+
+---
+
+## Areas of Interest
+
+- Secure software development
+- Reverse engineering & binary analysis
+- Linux hardening and system internals
+- Cryptography (practical use, not academic)
+- Automation and CLI tooling
+
+---
+
+## Philosophy
+
+- Prefer **simple tools that do one thing well**
+- Avoid unnecessary abstractions
+- Security should be understandable, not magical
+- If a tool requires a cloud API, it is already a liability
+
+---
+
+## Selected Projects
+
+- **HelioTime** — autonomous sunrise/sunset calculation without APIs  
+- CLI utilities for security workflows and automation  
+- Experimental tooling related to system inspection and hardening  
+
+(Pinned repositories below represent my current focus.)
+
+---
+
+## Current Focus
+
+- Designing offline-first utilities
+- Improving documentation and usability of existing tools
+- Building reproducible, auditable security tooling
+
+---
+
+## Contact
+
+If you are interested in:
+- collaboration,
+- reviewing tools,
+- or discussing security tooling,
+
+feel free to reach out via email or Twitter.
