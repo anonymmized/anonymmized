@@ -2,83 +2,57 @@
 
 <img src="./IMG_0287.JPG" width="720" height="300" />
 
-<h1>Hi, I'm Insany 👋</h1>
-
-<p>
-Cybersecurity (InfoSec) specialist focused on secure development,<br/>
-low-level tooling, and automation.
-</p>
-
-<p>
-  <a href="mailto:insanyyi@proton.me">
-    <img src="https://img.shields.io/badge/Email-insanyyi%40proton.me-8b5cf6?style=for-the-badge&labelColor=0d0b1f" />
-  </a>
-  <a href="https://x.com/anonymmizd" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@anonymmizd-8b5cf6?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0b1f" />
-  </a>
-  <a href="https://github.com/anonymmized" target="_blank">
-    <img src="https://img.shields.io/github/followers/anonymmized?logo=github&style=for-the-badge&color=8b5cf6&label=Followers&labelColor=0d0b1f" />
-  </a>
-</p>
-
 </div>
 
----
+Hey there 👋
 
-## About Me
+I'm **Insany**, an information security specialist and C developer.
 
-I build **small, focused security tools** and **terminal-first utilities** with an emphasis on:
+I design and build low-level security tools and terminal-first utilities,
+with a focus on predictability, minimal dependencies, and offline operation.
 
-- secure-by-design development
-- minimal dependencies
-- predictable and auditable behavior
-
-Most of my projects are designed to work **offline**, be easily portable, and remain transparent at the implementation level.
+My work centers around systems programming and security tooling
+that can be audited, reasoned about, and deployed without external services.
 
 ---
 
-## Areas of Interest
+### Areas of focus
 
-- Secure software development
-- Reverse engineering & binary analysis
-- Linux hardening and system internals
-- Cryptography (practical use, not academic)
-- Automation and CLI tooling
-
----
-
-## Philosophy
-
-- Prefer **simple tools that do one thing well**
-- Avoid unnecessary abstractions
-- Security should be understandable, not magical
-- If a tool requires a cloud API, it is already a liability
+- Low-level security tooling in **C**
+- Linux internals and system hardening
+- Reverse engineering and binary analysis
+- Minimal, auditable CLI utilities
 
 ---
 
-## Selected Projects
+### Engineering principles
 
-- **HelioTime** — autonomous sunrise/sunset calculation without APIs  
-- CLI utilities for security workflows and automation  
-- Experimental tooling related to system inspection and hardening  
+- Simple tools that do one thing well  
+- No unnecessary abstractions  
+- No hidden APIs or cloud dependencies  
+- Security should be understandable, not magical  
 
-(Pinned repositories below represent my current focus.)
-
----
-
-## Current Focus
-
-- Designing offline-first utilities
-- Improving documentation and usability of existing tools
-- Building reproducible, auditable security tooling
+> If a tool requires internet access, it increases the attack surface.
 
 ---
 
-## Contact
+### Selected work
 
-If you are interested in:
-- collaboration,
-- reviewing tools,
-- or discussing security tooling,
+Pinned repositories below reflect my current focus,
+including **HelioTime** and other offline-first utilities.
 
-feel free to reach out via email or Twitter.
+---
+
+### Tech stack
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
+![POSIX](https://img.shields.io/badge/POSIX-2c2c2c?style=flat)
+![InfoSec](https://img.shields.io/badge/InfoSec-8b5cf6?style=flat)
+
+---
+
+### Contact
+
+Open to collaboration on focused security tooling,
+systems programming, and low-level utilities.
