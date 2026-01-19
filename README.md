@@ -12,7 +12,7 @@ that can be audited, reasoned about, and deployed without external services.
 - Linux internals and system hardening
 - Reverse engineering and binary analysis
 - Minimal, auditable CLI utilities
-- 
+  
 ### Engineering principles
 - Simple tools that do one thing well  
 - No unnecessary abstractions  
