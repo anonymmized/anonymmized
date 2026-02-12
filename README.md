@@ -1,6 +1,6 @@
 Hey there 👀
 
-I'm **Insany**, an information security specialist and C developer.
+I'm **Insany**, an information security specialist.
 
 I design and build low-level security tools and terminal-first utilities,
 with a focus on predictability, minimal dependencies, and offline operation.
@@ -8,7 +8,7 @@ My work centers around systems programming and security tooling
 that can be audited, reasoned about, and deployed without external services.
 
 ### Areas of focus
-- Low-level security tooling in **C**
+- Low-level security tooling in **C/C++**
 - Linux internals and system hardening
 - Reverse engineering and binary analysis
 - Minimal, auditable CLI utilities
