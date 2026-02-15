@@ -43,4 +43,4 @@ that can be audited, reasoned about, and deployed without external services.
 ![Docker](https://img.shields.io/badge/Docker-0369a1?style=flat)
 
 ### Facts about me 
-I line to dig deeper into a technology to understand how it works from the inside.
+No fckn facts just coding
