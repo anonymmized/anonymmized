@@ -41,6 +41,3 @@ that can be audited, reasoned about, and deployed without external services.
 ![Vim](https://img.shields.io/badge/Vim-065f46?style=flat)
 ![Git](https://img.shields.io/badge/Git-7f1d1d?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-0369a1?style=flat)
-
-### Facts about me 
-No fckn facts just coding
