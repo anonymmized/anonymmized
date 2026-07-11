@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 62" fill="none" role="img" aria-label="frame top">
+  <defs>
+    <linearGradient id="ft" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#818cf8" stop-opacity="0.12"/>
+      <stop offset="0.5" stop-color="#818cf8" stop-opacity="1"/>
+      <stop offset="1" stop-color="#818cf8" stop-opacity="0.12"/>
+    </linearGradient>
+  </defs>
+  <!-- rounded top border + side stubs -->
+  <path d="M3 60 L3 32 Q3 17 18 17 L882 17 Q897 17 897 32 L897 60"
+        stroke="url(#ft)" stroke-width="2" stroke-linecap="round"/>
+  <!-- window traffic lights -->
+  <circle cx="30" cy="17" r="4" fill="#f87171"/>
+  <circle cx="46" cy="17" r="4" fill="#fbbf24"/>
+  <circle cx="62" cy="17" r="4" fill="#34d399"/>
+  <!-- title chip interrupting the border -->
+  <rect x="378" y="5" width="144" height="24" rx="7" fill="#0d1117" stroke="#818cf8" stroke-width="1.3"/>
+  <text x="450" y="21" fill="#c9d1d9" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" text-anchor="middle">~/anonymmized</text>
+</svg>
