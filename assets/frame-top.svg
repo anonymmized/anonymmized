@@ -14,6 +14,6 @@
   <circle cx="46" cy="17" r="4" fill="#fbbf24"/>
   <circle cx="62" cy="17" r="4" fill="#34d399"/>
   <!-- title chip interrupting the border -->
-  <rect x="378" y="5" width="144" height="24" rx="7" fill="#0d1117" stroke="#818cf8" stroke-width="1.3"/>
-  <text x="450" y="21" fill="#c9d1d9" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" text-anchor="middle">~/anonymmized</text>
+  <rect x="374" y="5" width="152" height="24" rx="7" fill="#0d1117" stroke="#818cf8" stroke-width="1.3"/>
+  <text x="450" y="21" fill="#818cf8" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" text-anchor="middle">~/anonymmized</text>
 </svg>

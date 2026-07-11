@@ -9,7 +9,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=818CF8&center=true&vCenter=true&width=620&lines=Information+Security+Specialist;Low-level+security+tooling+in+C%2FC%2B%2B;Reverse+Engineering+%C2%B7+Binary+Analysis;%22if+a+tool+needs+internet%2C+it+grows+the+attack+surface%22"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=818CF8&center=true&vCenter=true&width=680&height=52&lines=Information+Security+Specialist;Low-level+tooling+in+C+%2F+C%2B%2B;Reverse+Engineering+%26+Binary+Analysis;Minimal+%C2%B7+auditable+%C2%B7+offline-first"
   alt="header"
 />
 
@@ -99,6 +99,12 @@ deployed without external services.
 
 <div align="center">
 
+<!-- Contribution calendar (indigo, transparent bg) -->
+<img src="https://ghchart.rshah.org/818cf8/anonymmized" width="90%" alt="contribution calendar"/>
+
+<br/><br/>
+
+<!-- Dark contribution line graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anonymmized&bg_color=0D1117&color=818cf8&line=818cf8&point=C9D1D9&area=true&area_color=818cf8&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph"/>
 
 </div>
