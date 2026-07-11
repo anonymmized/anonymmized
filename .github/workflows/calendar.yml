@@ -1,0 +1,34 @@
+name: Contribution Calendar
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily, ~03:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate dark contribution calendar
+        env:
+          GH_USER: ${{ github.repository_owner }}
+        run: node scripts/gen-calendar.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/calendar-dark.svg
+          git diff --staged --quiet || git commit -m "chore: refresh contribution calendar"
+          git push

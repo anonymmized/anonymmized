@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 62" fill="none" role="img" aria-label="frame bottom">
   <defs>
     <linearGradient id="fb" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#818cf8" stop-opacity="0.12"/>
-      <stop offset="0.5" stop-color="#818cf8" stop-opacity="1"/>
-      <stop offset="1" stop-color="#818cf8" stop-opacity="0.12"/>
+      <stop offset="0" stop-color="#d29922" stop-opacity="0.12"/>
+      <stop offset="0.5" stop-color="#d29922" stop-opacity="1"/>
+      <stop offset="1" stop-color="#d29922" stop-opacity="0.12"/>
     </linearGradient>
   </defs>
   <!-- rounded bottom border + side stubs -->
   <path d="M3 2 L3 30 Q3 45 18 45 L882 45 Q897 45 897 30 L897 2"
         stroke="url(#fb)" stroke-width="2" stroke-linecap="round"/>
   <!-- signature chip interrupting the border -->
-  <rect x="326" y="33" width="248" height="24" rx="7" fill="#0d1117" stroke="#818cf8" stroke-width="1.3"/>
-  <text x="450" y="49" fill="#818cf8" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="600" text-anchor="middle">stay curious &#183; stay auditable</text>
+  <rect x="326" y="33" width="248" height="24" rx="7" fill="#0d1117" stroke="#d29922" stroke-width="1.3"/>
+  <text x="450" y="49" fill="#d29922" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="600" text-anchor="middle">stay curious &#183; stay auditable</text>
 </svg>
