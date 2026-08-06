@@ -9,7 +9,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=D29922&center=true&vCenter=true&width=680&height=52&lines=Hey+there;Good+at+C+%2F+C%2B%2B"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=D29922&center=true&vCenter=true&width=680&height=52&lines=Hey+there;I'm+getting+the+hang+of+C+%2F+C%2B%2B"
   alt="header"
 />
 
