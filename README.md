@@ -9,7 +9,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=D29922&center=true&vCenter=true&width=680&height=52&lines=Information+Security+Specialist;Low-level+tooling+in+C+%2F+C%2B%2B;Reverse+Engineering+%26+Binary+Analysis;Minimal+%C2%B7+auditable+%C2%B7+offline-first"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=D29922&center=true&vCenter=true&width=680&height=52&lines=Hey+there;Good+at+C+%2F+C%2B%2B"
   alt="header"
 />
 
